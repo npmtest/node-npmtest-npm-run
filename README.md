@@ -1,6 +1,6 @@
 # npmtest-npm-run
 
-#### test coverage for  [npm-run (v4.1.2)](https://github.com/timoxley/npm-run)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-run.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-run)
+#### basic test coverage for  [npm-run (v4.1.2)](https://github.com/timoxley/npm-run)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-run.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-run)
 
 #### Run executables for locally-installed packages without using ./node_modules/.bin
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-npm-run/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-npm-run/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-npm-run/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-npm-run/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-run/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-npm-run/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-npm-run/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-run/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-npm-run/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-npm-run/build/coverage.html/index.html)
 
